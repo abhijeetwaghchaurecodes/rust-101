@@ -32,5 +32,5 @@ git clone https://github.com/yourusername/rust-systems-projects.git
 cd rust-systems-projects
 
 # Build & Run a project
-cd assn07-inmem-cache
+cd /navigate_to_res_folder
 cargo run
