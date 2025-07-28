@@ -10,12 +10,9 @@ A collection of advanced, production-grade systems-level programming assignments
 
 - [🔧 Requirements](#-requirements)
 - [📦 Projects Overview](#-projects-overview)
-- [🧠 Key Concepts](#-key-concepts)
 - [🚀 How to Run](#-how-to-run)
-- [📁 Folder Structure](#-folder-structure)
-- [🧪 Testing](#-testing)
-- [💡 Future Enhancements](#-future-enhancements)
-- [📜 License](#-license)
+- [📁 Folder Structure (you can visit individual folders)](#-folder-structure)
+
 
 ---
 
